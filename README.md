@@ -1,3 +1,4 @@
 # Lab 7 - Starter
 
-**By:** Lance Tran
+**By:** Lance Tran  
+https://thelancetran.github.io/lab7-starter/
